@@ -1,2 +1,2 @@
-# mern-realtime-project
+# mern-estate
 this is a mern real time project of rentintg
